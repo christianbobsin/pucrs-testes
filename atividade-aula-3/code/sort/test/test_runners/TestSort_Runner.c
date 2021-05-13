@@ -4,5 +4,5 @@
 TEST_GROUP_RUNNER(Sort)
 {
   RUN_TEST_CASE(Sort, TestSortA);
-  RUN_TEST_CASE(Sort, TestSortB);
+  //RUN_TEST_CASE(Sort, TestSortB);
 }
